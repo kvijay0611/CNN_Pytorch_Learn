@@ -43,3 +43,14 @@ The model was evaluated on both training and test datasets. Below are the key me
 
 ### Train-Test Loss Over Epochs:
 
+![Train Test Loss observed for 25 epochs](<Ouputs/Train-Test Loss.png>)
+
+### Train Data Confusion Matrix:
+![Train Confusion Matrix](Ouputs/Train_Confu.png)
+
+### Test Data Confusion Matrix:
+![Test confusion Matrix](Ouputs/Test_Confu.png)
+
+
+### Final Input Detection of Unknown Scan 
+![Detection of Inpt image](Ouputs/Output.png)
